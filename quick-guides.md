@@ -1,0 +1,10 @@
+## 🌏 Best Quiet Seaside Spots in Asia for Coffee, Nature & Flowers
+
+| Location               | Country       | Coffee Scene (Indie)                     | Birding Nearby                            | Flower Scene                              | Sea View Cafés       | Vibe Keywords                                |
+|------------------------|---------------|-------------------------------------------|-------------------------------------------|--------------------------------------------|----------------------|------------------------------------------------|
+| **Hoi An (An Bang)**   | Vietnam       | Sound of Silence, Rosie’s, Espresso Station | Cam Thanh mangroves, rice paddies         | Tet flower markets, Tra Que herb village   | ✅ Beachfront         | Lantern-lit, rustic, riverside + beach calm   |
+| **Sanur**              | Indonesia     | Soul on the Beach, The Porch, Canvas Café | Serangan wetlands, Ubud forest (day trip) | Frangipani, hibiscus, temple flowers       | ✅ Beachfront         | Tropical, peaceful, cultural grace            |
+| **Kamakura**           | Japan         | Yoridokoro, Sunday Jam, Café Recette      | Hillside forest trails, coastal birding   | Hydrangeas, maple, azaleas (temples)       | ✅ Cliffside/near sea | Zen, tidy, seasonal, surf-town vibe           |
+| **Gangneung (Anmok)**  | South Korea   | Bohemian Roasters, Terarosa               | Gyeongpo Lake, Odaesan forest             | Cherry blossoms, reeds, lotus fields       | ✅ Boardwalk          | Seasonal air, clean coast, Korean calm        |
+| **Unawatuna / Galle**  | Sri Lanka     | Café Ceylon, Poonie's Kitchen             | Koggala Lake, Kottawa Forest, Bundala     | Wildflowers, jasmine garlands, temple flora| ✅ Garden w/ sea view | Lush, tropical, deeply local & colorful       |
+| **Dumaguete**          | Philippines   | Ground Zero, Café Mafioso, Kape Lucio     | Twin Lakes forest birding (Balinsasayao)  | Minimal floral culture, some upland blooms | ➖ Inland cafés        | Provincial charm, bird-rich hills nearby      |
