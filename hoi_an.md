@@ -27,3 +27,4 @@ Pin the following locations (search by name):
 
 Links
 - https://www.helenabradbury.com/blog-1/best-things-to-do-in-hoi-an-vietnam
+- https://thesurfatlas.com/vietnam-surf/hoi-an-surf/
